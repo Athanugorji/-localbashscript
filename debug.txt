@@ -1,0 +1,16 @@
+ec2-user
+               total        used        free      shared  buff/cache   available
+Mem:             753         325         173          15         380         428
+Swap:              0           0           0
+Sat Mar 23 02:55:18 PM UTC 2024
+/home/ec2-user/automation
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           377M     0  377M   0% /dev/shm
+tmpfs           151M   15M  137M  10% /run
+/dev/xvda4      9.2G  1.7G  7.6G  18% /
+/dev/xvda3      536M  161M  376M  31% /boot
+/dev/xvda2      200M  7.0M  193M   4% /boot/efi
+tmpfs            76M     0   76M   0% /run/user/1000
+0
+12241

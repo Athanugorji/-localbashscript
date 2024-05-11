@@ -1,0 +1,10 @@
+simon:x:1016:1016::/home/simon:/bin/bash
+sophia:x:1017:1017::/home/sophia:/bin/bash
+karren:x:1018:1018::/home/karren:/bin/bash
+solomon:x:1019:1019::/home/solomon:/bin/bash
+daty:x:1020:1020::/home/daty:/bin/bash
+kunle:x:1021:1021::/home/kunle:/bin/bash
+jimmy:x:1022:1022::/home/jimmy:/bin/bash
+rebecca:x:1023:1023::/home/rebecca:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+armani:x:1024:1032::/home/armani:/bin/bash
